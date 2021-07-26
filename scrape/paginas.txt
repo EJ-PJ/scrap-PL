@@ -1,0 +1,24 @@
+secciones por paginas
+
+- 1. Primera plana (primera pagina):
+    1 al 4
+- 2. Lo mas reciente(segunda pagina):
+     5 al 9
+- 3. Todo sobre las vacunas contra covid 19 (tercera pagina):
+    10 al 14
+- 4. Lo mas destacado (cuarta pagina):
+    15 al 21
+- 5. BBCNewsMundo (quinta pagina):
+    22 al 28
+- 6. The Conversation (sexta pagina): 
+    29 al 34
+- 7. Editorial (septima pagina):
+    35 al 36 
+- 8. Ciudades (octava pagina):
+    37 al 41 
+- 9. Internacionl (novena pagina):
+    42 al 48
+- 10. Vida (decima pagina):
+    49 al 53
+- 11. Deportes (onceava pagina):
+    54 al 60
