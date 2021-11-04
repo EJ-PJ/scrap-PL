@@ -1,2 +1,2 @@
 # scrap-PL
-simple script for scriping the news of Prensa Libre through the CLI.
+simple script for scriping the news on Prensa Libre through the CLI.
