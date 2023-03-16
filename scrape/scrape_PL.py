@@ -3,7 +3,7 @@ import requests
 import subprocess
 import os
 import shutil
-
+import webbrowser
 def extract_headlines():
     source = requests.get('https://www.prensalibre.com/')
     soup = BeautifulSoup(source.text, 'lxml')
@@ -23,8 +23,8 @@ def extract_headlines():
             pass 
         
 def open_browser(choose):
-    subprocess.Popen(['c:/Program Files/Mozilla Firefox/firefox.exe', 
-                     url_list[choose-1]])
+    webbrowser.open(url_list[choose-1], new=0)
+    #subprocess.Popen(['c:/Program Files/Mozilla Firefox/firefox.exe', url_list[choose-1]])
 
 def show_page(page):
       columns = shutil.get_terminal_size().columns 
